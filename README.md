@@ -6,6 +6,7 @@ Since my time in elementary school, games have fascinated me and helped me throu
 
 [![SpellFest Banner](ReadMe/SpellFest_Banner.png 'SpellFest')](https://github.com/xXAstolXx/SpellFest)
 [![Hivebreaker Banner](ReadMe/Hivebreaker_Banner.png 'Hivebreaker')](https://github.com/xXAstolXx/Hivebreaker)
+[![Shine a Way Banner](ReadMe/Hivebreaker_Banner.png 'Shine-a-Way')](https://github.com/xXAstolXx/Shine-a-Way)
 
 <p align="center"><b>Private Projects</b></p>
 
