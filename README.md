@@ -5,5 +5,8 @@ Since my time in elementary school, games have fascinated me and helped me throu
 <p align="center"><b>Student Projects</b></p>
 
 [![SpellFest Banner](ReadMe/SpellFest_Banner.png 'SpellFest')](https://github.com/xXAstolXx/SpellFest)
+[![Hivebreaker Banner](ReadMe/SpellFest_Banner.png 'Hivebreaker')](https://github.com/xXAstolXx/SpellFest)
 
 <p align="center"><b>Private Projects</b></p>
+
+[![Overheat Banner](ReadMe/Tactical_Banner.png 'Overheat')](https://github.com/xXAstolXx/Overheat)
